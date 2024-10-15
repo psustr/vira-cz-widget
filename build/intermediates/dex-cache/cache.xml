@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/libs/commons-net-3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f76ff64f941e71395a0e07cad82ee44310eea842">
+        <dex dex="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/build/intermediates/pre-dexed/release/commons-net-3.2_b702485e5f28035ce57f5fed848076b904414ebc.jar" />
+    </item>
+    <item
+        jar="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/libs/jsoup-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5">
+        <dex dex="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/build/intermediates/pre-dexed/release/jsoup-1.7.1_cbb1983ea9d06a20805e564d628475a70e23bd5c.jar" />
+    </item>
+    <item
+        jar="/Users/psustr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/build/intermediates/pre-dexed/release/support-v4-18.0.0_6408cfa5827fd578ab291fcde1e8733c1add03f0.jar" />
+    </item>
+    <item
+        jar="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/build/intermediates/exploded-aar/vira.cz/ambilWarna/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="74eb07599bcbcdf545878f0c46a86afe2aa47a29">
+        <dex dex="/Users/psustr/AndroidStudioProjects/vira.cz/viracz/build/intermediates/pre-dexed/release/vira.cz-ambilWarna-unspecified_bf95b0be734d76d0dc6c132ecc69b69beaefb7c3.jar" />
+    </item>
+
+</items>

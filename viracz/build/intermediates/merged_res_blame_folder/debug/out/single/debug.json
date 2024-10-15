@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_settings.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_refresh.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/refresh.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_password.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_ftp.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/ftp.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_size.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/size.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_size.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/size.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_user.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_colour.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/colour.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_ftp.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/ftp.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_settings.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_pane2.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/pane2.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_user.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/user.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_pane2.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/pane2.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_background.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_background.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_size.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/size.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_server.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/server.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_settings.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_directory.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/directory.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_size.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/size.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_pane2.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/pane2.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_user.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/user.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/layout_widget.xml.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/layout/widget.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_password.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/password.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_background.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_directory.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/directory.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_pane2.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/pane2.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_server.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/server.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_server.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/server.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_password.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_refresh.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/refresh.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_directory.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/directory.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/xml_preferences.xml.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/xml/preferences.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_refresh.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/refresh.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_directory.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/directory.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_ftp.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/ftp.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_colour.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/colour.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_settings.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_colour.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/colour.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_password.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/password.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_widget.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/widget.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_server.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/server.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_background.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-xhdpi_widget.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-xhdpi/widget.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-v21_app_widget_background.xml.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-v21/app_widget_background.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_ftp.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/ftp.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/xml_widget_provider.xml.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/xml/widget_provider.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/layout_dialog_activity.xml.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/layout/dialog_activity.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_colour.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/colour.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_user.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/user.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-ldpi_refresh.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-ldpi/refresh.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-v21/app_widget_inner_view_background.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-hdpi_widget.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-hdpi/widget.png"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-merged_res-9:/drawable-mdpi_widget.png.flat",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/drawable-mdpi/widget.png"
+    }
+]

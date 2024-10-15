@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogFrame"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView
+    	android:id="@+id/scrollView"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_alignParentLeft="true"
+    	android:layout_alignParentTop="true">
+    
+	    <LinearLayout
+	        xmlns:android="http://schemas.android.com/apk/res/android"
+	        xmlns:tools="http://schemas.android.com/tools"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent" >
+	
+	        <TextView
+	            android:id="@+id/dialogTextView"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="10dp"
+	            android:layout_marginRight="10dp"
+	            android:scrollbars="vertical"
+	            android:text="@string/topicDetail"
+	            android:textIsSelectable="true" />
+	
+		</LinearLayout>
+    
+	</ScrollView>
+		    
+    <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom" >
+
+        <ImageButton
+            android:id="@+id/buttonRefresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:contentDescription="@string/settingsDescription"
+            android:src="@drawable/refresh" />
+
+        <ImageButton
+            android:id="@+id/buttonSettings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:contentDescription="@string/settingsDescription"
+            android:src="@drawable/settings" />
+
+        </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0" from-dependency="true" generated-set="androidx.core:core:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res"><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-tl/values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-v16/values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-it/values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ca/values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-is/values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-el/values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-lv/values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-kk/values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ky/values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-gu/values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-mn/values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-en-rIN/values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ms/values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-zh-rHK/values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-km/values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-am/values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values/values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-uz/values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-fr-rCA/values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-pl/values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-vi/values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-sq/values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-sv/values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-sk/values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-pt-rPT/values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ta/values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-th/values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-lt/values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-or/values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-eu/values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-lo/values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-iw/values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-en-rGB/values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-fi/values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-en-rAU/values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-fr/values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-es/values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-et/values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-hu/values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-nl/values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-bg/values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ne/values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-af/values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-nb/values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ka/values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-de/values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-as/values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-az/values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ml/values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-mk/values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-kn/values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-bs/values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-my/values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-es-rUS/values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-pt/values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-uk/values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-sr/values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-pa/values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-si/values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-zu/values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/psustr/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0" from-dependency="true" generated-set="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/psustr/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/res"><file path="/Users/psustr/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/res/values/values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.media:media:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/psustr/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.media:media:1.0.0" from-dependency="true" generated-set="androidx.media:media:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/psustr/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res"><file path="/Users/psustr/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file><file path="/Users/psustr/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res/values/values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="/Users/psustr/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res/values-v24/values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config=":ambilWarna$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/Data2/vira.cz/ambilWarna/build/intermediates/packaged_res/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config=":ambilWarna" from-dependency="true" generated-set=":ambilWarna$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/Data2/vira.cz/ambilWarna/build/intermediates/packaged_res/debug"><file path="/Volumes/Data2/vira.cz/ambilWarna/build/intermediates/packaged_res/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" qualifiers="xlarge-land-v4"><dimen name="ambilwarna_hsvHeight">240dp</dimen><dimen name="ambilwarna_hsvWidth">240dp</dimen></file><file path="/Volumes/Data2/vira.cz/ambilWarna/build/intermediates/packaged_res/debug/values-land/values-land.xml" qualifiers="land"><dimen name="ambilwarna_hsvHeight">120dp</dimen><dimen name="ambilwarna_hsvWidth">240dp</dimen></file><file path="/Volumes/Data2/vira.cz/ambilWarna/build/intermediates/packaged_res/debug/values/values.xml" qualifiers=""><dimen name="ambilwarna_hsvHeight">240dp</dimen><dimen name="ambilwarna_hsvWidth">240dp</dimen><dimen name="ambilwarna_hueWidth">30dp</dimen><dimen name="ambilwarna_spacer">8dp</dimen></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/Data2/vira.cz/viracz/src/main/res"/><source path="/Volumes/Data2/vira.cz/viracz/build/generated/res/rs/debug"/><source path="/Volumes/Data2/vira.cz/viracz/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/Data2/vira.cz/viracz/src/main/res"><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-v21/styles.xml" qualifiers="v21"><style name="Widget.Viracz.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+    </style><style name="Widget.Viracz.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-v11/dimensions.xml" qualifiers="v11"><dimen name="widget_padding">10dp</dimen></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-night-v31/themes.xml" qualifiers="night-v31"><style name="Theme.Viracz.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="appWidgetRadius">@android:dimen/system_app_widget_background_radius</item>
+        <item name="appWidgetInnerRadius">@android:dimen/system_app_widget_inner_radius</item>
+    </style></file><file name="dialog_activity" path="/Volumes/Data2/vira.cz/viracz/src/main/res/layout/dialog_activity.xml" qualifiers="" type="layout"/><file name="widget" path="/Volumes/Data2/vira.cz/viracz/src/main/res/layout/widget.xml" qualifiers="" type="layout"/><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/colors.xml" qualifiers=""><color name="light_blue_50">#FFE1F5FE</color><color name="light_blue_200">#FF81D4FA</color><color name="light_blue_600">#FF039BE5</color><color name="light_blue_900">#FF01579B</color></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/dimens.xml" qualifiers=""><dimen name="widget_margin">0dp</dimen></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/themes.xml" qualifiers=""><style name="Theme.Viracz.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        
+        <item name="appWidgetRadius">16dp</item>
+        
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style><style name="Theme.Viracz.AppWidgetContainer" parent="Theme.Viracz.AppWidgetContainerParent">
+        
+        <item name="appWidgetPadding">16dp</item>
+    </style></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/dimensions.xml" qualifiers=""><dimen name="widget_padding">0dp</dimen></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/arrays.xml" qualifiers=""><string-array name="fontSizes">
+        <item name="8">Velmi malé</item>
+        <item name="12">Malé</item>
+        <item name="14">Normální</item>
+        <item name="16">Velké</item>
+        <item name="18">Velmi velké</item>
+    </string-array><string-array name="fontSizeValues">
+        <item name="8">8</item>
+        <item name="12">12</item>
+        <item name="14">14</item>
+        <item name="16">16</item>
+        <item name="18">18</item>
+    </string-array><string-array name="colours">
+        <item name="black">Černá</item>
+        <item name="blue">Modrá</item>
+        <item name="cyan">Azurová</item>
+        <item name="dkgray">Tmavě šedá</item>
+        <item name="gray">Šedá</item>
+        <item name="green">Zelená</item>
+        <item name="ltgray">Světle šedá</item>
+        <item name="magenta">Fialová</item>
+        <item name="red">Červená</item>
+        <item name="white">Bílá</item>
+        <item name="yellow">Žlutá</item>
+    </string-array><string-array name="colourValues">
+        <item name="black">black</item>
+        <item name="blue">blue</item>
+        <item name="cyan">cyan</item>
+        <item name="dkgray">darkgray</item>
+        <item name="gray">gray</item>
+        <item name="green">green</item>
+        <item name="ltgray">lightgray</item>
+        <item name="magenta">magenta</item>
+        <item name="red">red</item>
+        <item name="white">white</item>
+        <item name="yellow">yellow</item>
+    </string-array></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/styles.xml" qualifiers=""><style name="Widget.Viracz.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style><style name="Widget.Viracz.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Víra.cz</string><string name="dummy_activity">Dummy Launcher</string><string name="quoteHeader">Biblický citát dne:</string><string name="quoteText">Všechen lid Ježíšovi rád naslouchal. (Lk 19,48)</string><string name="quoteUrl">https://www.vira.cz/</string><string name="quoteFileName">biblicky-citat.php</string><string name="quoteTextElemId">biblicky-citat-text</string><string name="quoteRefElemId">biblicky-citat-citace</string><string name="quoteDetailUrl">http://www.biblenet.cz/b/</string><string name="quoteDetailElemId">main</string><string name="quoteDetailTitle">Biblický citát dne:</string><string name="quoteDetailJunk1">.chapterControls</string><string name="quoteDetailJunk2">.mainForm</string><string name="topicHeader">Téma týdne:</string><string name="topicText">Co v lásce dáme, Bůh nám podivuhodně vrátí. Co v lásce dáme, Bůh nám podivuhodně vrátí (25.6.2011, 12)</string><string name="topicUrl">https://www.vira.cz/</string><string name="topicFileName">tema-tydne.php</string><string name="topicTextElemId">tema_tydne_nadpis</string><string name="topicDateElemId">tema_tydne_datum_autor</string><string name="topicDetailTitle">Téma týdne</string><string name="settingsDescription">settings</string><string name="ONCLICK_QUOTE_ACTION">ca.sustr.vira.cz.OnClickQuoteAction</string><string name="ONCLICK_TOPIC_ACTION">ca.sustr.vira.cz.OnClickTopicAction</string><string name="ONBACKPRESSED_PREFS_ACTION">ca.sustr.vira.cz.OnBackPressedPrefsAction</string><string name="ONWIDGET_AUTOUPDATE_ACTION">ca.sustr.vira.cz.OnWidgetAutoUpdateAction</string><string name="ONWIDGET_MANUALUPDATE_ACTION">ca.sustr.vira.cz.OnWidgetManualUpdateAction</string><string name="BUNDLE_KEY">ca.sustr.vira.cz.text</string><string name="quoteDetail">
+1 Ježíš vešel do Jericha a procházel jím.\n
+2 Tam byl muž jménem Zacheus, vrchní celník a veliký boháč;\n
+3 toužil uvidět Ježíše, aby poznal, kdo to je, ale poněvadž byl malé postavy, nemohl ho pro zástup spatřit.\n
+4 Běžel proto napřed a vylezl na moruši, aby ho uviděl, neboť tudy měl jít.\n
+5 Když Ježíš přišel k tomu místu, pohlédl vzhůru a řekl: „Zachee, pojď rychle dolů, neboť dnes musím zůstat v tvém domě.“\n
+6 On rychle slezl a s radostí jej přijal.\n
+7 Všichni, kdo to viděli, reptali: „On je hostem u hříšného člověka!“\n
+8 Zacheus se zastavil a řekl Pánu: „Polovinu svého jmění, Pane, dávám chudým, a jestliže jsem někoho ošidil, nahradím mu to čtyřnásobně.“\n
+9 Ježíš mu řekl: „Dnes přišlo spasení do tohoto domu; vždyť je to také syn Abrahamův.\n
+10 Neboť Syn člověka přišel, aby hledal a spasil, co zahynulo.“\n
+11 Těm, kteří to slyšeli, pověděl ještě podobenství, protože byl blízko Jeruzaléma, a oni se domnívali, že království Boží se má zjevit ihned.\n
+12 Proto řekl: „Jeden muž vznešeného rodu měl odejít do daleké země, aby si odtud přinesl královskou hodnost.\n
+13 Zavolal si deset svých služebníků, dal jim deset hřiven a řekl jim: ‚Hospodařte s nimi, dokud nepřijdu.‘\n
+14 Ale občané ho nenáviděli a poslali vzápětí poselstvo, aby vyřídilo: ‚Nechceme tohoto člověka za krále!‘\n
+15 Když se však jako král vrátil, dal si předvolat služebníky, kterým svěřil peníze, aby se přesvědčil, jak s nimi kdo hospodařil.\n
+16 Přišel první a řekl: ‚Pane, tvoje hřivna vynesla deset hřiven.‘\n
+17 Řekl mu: ‚Správně, služebníku dobrý, poněvadž jsi byl věrný v docela malé věci, budeš vládnout nad deseti městy.‘\n
+18 Přišel druhý a řekl: ‚Pane, tvoje hřivna vynesla pět hřiven.‘\n
+19 Řekl mu: ‚Ty vládni nad pěti městy!‘\n
+20 Přišel další a řekl: ‚Pane, tu je tvoje hřivna; měl jsem ji schovánu v šátku,\n
+21 neboť jsem se tě bál. Jsi přísný člověk: bereš, co jsi nedal, a sklízíš, co jsi nezasel.‘\n
+22 Řekne mu: ‚Jsi špatný služebník. Soudím tě podle tvých vlastních slov: věděl jsi, že jsem člověk přísný a beru, co jsem nedal, a sklízím, co jsem nezasel.\n
+23 Proč jsi aspoň mé peníze neuložil, a já bych si je byl teď vybral i s úrokem.‘\n
+24 Své družině pak řekl: ‚Vezměte mu tu hřivnu a dejte ji tomu, kdo má deset hřiven!‘\n
+25 Řekli mu: ‚Pane, už má deset.‘\n
+26 Pravím vám: ‚Každému, kdo má, bude dáno; kdo nemá, tomu bude odňato i to, co má.\n
+27 Ale mé nepřátele, kteří nechtěli, abych byl jejich králem, přiveďte sem a přede mnou je pobijte.‘“\n
+28 Po těchto slovech pokračoval Ježíš v cestě do Jeruzaléma.\n
+29 Když se přiblížil k Betfage a k Betanii u hory, která se nazývá Olivová, poslal dva ze svých učedníků\n
+30 a řekl jim: „Jděte naproti do vesnice, a jak do ní vejdete, naleznete přivázané oslátko, na němž dosud nikdo z lidí neseděl. Odvažte je a přiveďte!\n
+31 Zeptá-li se vás někdo, proč je odvazujete, odpovězte mu: ‚Pán je potřebuje.‘“\n
+32 Šli, kam je poslal, a nalezli vše, jak jim řekl.\n
+33 Když oslátko odvazovali, řekli jim jeho majitelé: „Proč to oslátko odvazujete?“\n
+34 Oni odpověděli: „Pán je potřebuje.“\n
+35 Přivedli oslátko k Ježíšovi, hodili přes ně své pláště a Ježíše na ně posadili.\n
+36 A jak jel, prostírali mu své pláště na cestu.\n
+37 Když už se blížil ke svahu Olivové hory, počal celý zástup učedníků radostně a hlasitě chválit Boha za všechny mocné činy, které viděli.\n
+38 Volali: „Požehnaný král, který přichází ve jménu Hospodinově. Na nebi pokoj a sláva na výsostech!“\n
+39 Tu mu řekli někteří farizeové ze zástupu: „Mistře, napomeň své učedníky!“\n
+40 O dpověděl: „Pravím vám, budou-li oni mlčet, bude volat kamení.“\n
+41 Když už byl blízko a uzřel město, dal se nad ním do pláče\n
+42 a řekl: „Kdybys poznalo v tento den i ty, co vede k pokoji! Avšak je to skryto tvým očím.\n
+43 Přijdou na tebe dny, kdy tvoji nepřátelé postaví kolem tebe val, obklíčí tě a sevřou ze všech stran.\n
+44 Srovnají tě se zemí a s tebou i tvé děti; nenechají v tobě kámen na kameni, poněvadž jsi nepoznalo čas, kdy se Bůh k tobě sklonil.“\n
+45 Když vešel do chrámu, začal vyhánět ty, kdo tam prodávali,\n
+46 a řekl jim: „Je psáno: ‚Můj dům bude domem modlitby,‘ ale vy jste z něho udělali doupě lupičů.“\n
+47 Každý den učil v chrámě; velekněží však a zákoníci i přední mužové z lidu usilovali o to, aby jej zahubili,\n
+48 ale nevěděli, jak by to měli udělat, poněvadž všechen lid mu visel na rtech.         \n
+	</string><string name="topicDetail">
+Téma týdne\n
+  Co v lásce dáme, Bůh nám podivuhodně vrátí\n
+  Ježíš řekl:\n
+Kdo ztratí svůj život pro mě,\n 
+nalezne ho. (Mt 10, 37-42)\n 
+  Ztratit život - komu by se chtělo?\n 
+Ale kdo z lidí ho nakonec stejně neztratí,\n 
+když jsme všichni smrtelní?\n
+Ztratit život zbytečně nebo tak,\n 
+že ho dokonale prohrajeme, \n
+to sotva může být pro někoho životním snem.\n
+Ale ztratit život tím způsobem, \n
+že ho opět jednou nalezneme, \n
+to je cesta, která nekončí ve slepé uličce.\n
+Vypadá to jen jako útěcha \n
+kterou si nemůžeme na tomto světě ověřit.\n
+Jenže ztrácet život smysluplně po troškách \n
+pro Ježíše, pro bližní, pro dobro druhých \n
+můžeme už teď a vlastně celý život.\n
+A tak můžeme v každé chvíli života zakoušet,\n 
+že to, co v lásce dáme, \n
+nám Bůh podivuhodně proměněné vrátí.\n
+  Tuto službu poskytuje www.vira.cz.        
+	</string><string name="prefs_appearance_category">Vzhled</string><string name="prefs_widget_title">Widget</string><string name="prefs_dialog_title">Čtecí okno</string><string name="prefs_font_size_title">Velikost</string><string name="prefs_font_size_summary">Volba velikosti písma</string><string name="prefs_font_colour_title">Barva písma</string><string name="prefs_font_colour_summary">Volba barvy písma</string><string name="prefs_background_colour_title">Barva pozadí</string><string name="prefs_background_colour_summary">Volba barvy pozadí</string><string name="prefs_upload_category">Upload</string><string name="prefs_enable_upload_title">Povolit upload</string><string name="prefs_enable_upload_summary">Uložení citátu a tématu na FTP server</string><string name="prefs_ftp_server_title">FTP server</string><string name="prefs_ftp_server_summary">Adresa FTP serveru</string><string name="prefs_ftp_directory_title">Lokální adresář</string><string name="prefs_ftp_directory_summary">Cesta pro uložení dat</string><string name="prefs_ftp_user_title">Uživatelské jméno</string><string name="prefs_ftp_user_summary">Přihlašovací jméno FTP uživatele</string><string name="prefs_ftp_password_title">Heslo</string><string name="prefs_ftp_password_summary">Heslo FTP uživatele</string><string name="error_quote_title">Odkaz \'</string><string name="error_quote_syntax">\': neznámá syntax</string><string name="error_book_title">Kniha \'</string><string name="error_book_unknown">\': neznámá kniha</string><string name="quote_updated">Biblický citát dne aktualizován</string><string name="quote_empty">Nepodařil se stáhnout biblický citát dne</string><string name="topic_updated">Téma týdne aktualizováno</string><string name="topic_empty">Nepodařilo se stáhnout téma týdne</string><string name="appwidget_text">EXAMPLE</string><string name="add_widget">Add widget</string><string name="app_widget_description">This is an app widget description</string></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values/integers.xml" qualifiers=""><integer name="jobId">34532198</integer></file><file name="server" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/server.png" qualifiers="xhdpi-v4" type="drawable"/><file name="size" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/size.png" qualifiers="xhdpi-v4" type="drawable"/><file name="settings" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/settings.png" qualifiers="xhdpi-v4" type="drawable"/><file name="user" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/user.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pane2" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/pane2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="colour" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/colour.png" qualifiers="xhdpi-v4" type="drawable"/><file name="background" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/background.png" qualifiers="xhdpi-v4" type="drawable"/><file name="password" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/password.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="directory" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/directory.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ftp" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/ftp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="widget" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/widget.png" qualifiers="xhdpi-v4" type="drawable"/><file name="refresh" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-xhdpi/refresh.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-v8/dimensions.xml" qualifiers="v8"><dimen name="widget_padding">10dp</dimen></file><file name="widget_provider" path="/Volumes/Data2/vira.cz/viracz/src/main/res/xml/widget_provider.xml" qualifiers="" type="xml"/><file name="preferences" path="/Volumes/Data2/vira.cz/viracz/src/main/res/xml/preferences.xml" qualifiers="" type="xml"/><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-v14/dimensions.xml" qualifiers="v14"><dimen name="widget_padding">10dp</dimen></file><file name="server" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/server.png" qualifiers="hdpi-v4" type="drawable"/><file name="size" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/size.png" qualifiers="hdpi-v4" type="drawable"/><file name="settings" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="user" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/user.png" qualifiers="hdpi-v4" type="drawable"/><file name="pane2" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/pane2.png" qualifiers="hdpi-v4" type="drawable"/><file name="colour" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/colour.png" qualifiers="hdpi-v4" type="drawable"/><file name="background" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/background.png" qualifiers="hdpi-v4" type="drawable"/><file name="password" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/password.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="directory" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/directory.png" qualifiers="hdpi-v4" type="drawable"/><file name="ftp" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/ftp.png" qualifiers="hdpi-v4" type="drawable"/><file name="widget" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/widget.png" qualifiers="hdpi-v4" type="drawable"/><file name="refresh" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-hdpi/refresh.png" qualifiers="hdpi-v4" type="drawable"/><file name="app_widget_background" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-v21/app_widget_background.xml" qualifiers="v21" type="drawable"/><file name="app_widget_inner_view_background" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-v21/app_widget_inner_view_background.xml" qualifiers="v21" type="drawable"/><file name="server" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/server.png" qualifiers="ldpi-v4" type="drawable"/><file name="size" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/size.png" qualifiers="ldpi-v4" type="drawable"/><file name="settings" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/settings.png" qualifiers="ldpi-v4" type="drawable"/><file name="user" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/user.png" qualifiers="ldpi-v4" type="drawable"/><file name="pane2" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/pane2.png" qualifiers="ldpi-v4" type="drawable"/><file name="colour" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/colour.png" qualifiers="ldpi-v4" type="drawable"/><file name="background" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/background.png" qualifiers="ldpi-v4" type="drawable"/><file name="password" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/password.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="directory" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/directory.png" qualifiers="ldpi-v4" type="drawable"/><file name="ftp" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/ftp.png" qualifiers="ldpi-v4" type="drawable"/><file name="widget" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/widget.png" qualifiers="ldpi-v4" type="drawable"/><file name="refresh" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-ldpi/refresh.png" qualifiers="ldpi-v4" type="drawable"/><file name="server" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/server.png" qualifiers="mdpi-v4" type="drawable"/><file name="size" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/size.png" qualifiers="mdpi-v4" type="drawable"/><file name="settings" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/settings.png" qualifiers="mdpi-v4" type="drawable"/><file name="user" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/user.png" qualifiers="mdpi-v4" type="drawable"/><file name="pane2" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/pane2.png" qualifiers="mdpi-v4" type="drawable"/><file name="colour" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/colour.png" qualifiers="mdpi-v4" type="drawable"/><file name="background" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/background.png" qualifiers="mdpi-v4" type="drawable"/><file name="password" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/password.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="directory" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/directory.png" qualifiers="mdpi-v4" type="drawable"/><file name="ftp" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/ftp.png" qualifiers="mdpi-v4" type="drawable"/><file name="widget" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/widget.png" qualifiers="mdpi-v4" type="drawable"/><file name="refresh" path="/Volumes/Data2/vira.cz/viracz/src/main/res/drawable-mdpi/refresh.png" qualifiers="mdpi-v4" type="drawable"/><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-v31/themes.xml" qualifiers="v31"><style name="Theme.Viracz.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="appWidgetRadius">@android:dimen/system_app_widget_background_radius</item>
+        <item name="appWidgetInnerRadius">@android:dimen/system_app_widget_inner_radius</item>
+    </style></file><file path="/Volumes/Data2/vira.cz/viracz/src/main/res/values-v31/styles.xml" qualifiers="v31"><style name="Widget.Viracz.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+        <item name="android:clipToOutline">true</item>
+    </style><style name="Widget.Viracz.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:clipToOutline">true</item>
+    </style></file></source><source path="/Volumes/Data2/vira.cz/viracz/build/generated/res/rs/debug"/><source path="/Volumes/Data2/vira.cz/viracz/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/Data2/vira.cz/viracz/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/Data2/vira.cz/viracz/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

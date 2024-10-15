@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ca.sustr.vira.cz.viracz-mergeDebugResources-8:/layout/widget.xml",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/layout/widget.xml"
+    },
+    {
+        "merged": "ca.sustr.vira.cz.viracz-mergeDebugResources-8:/layout/dialog_activity.xml",
+        "source": "ca.sustr.vira.cz.viracz-main-11:/layout/dialog_activity.xml"
+    }
+]

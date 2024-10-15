@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "ca.sustr.vira.cz.viracz-mergeDebugResources-7:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Data2/vira.cz/viracz/src/main/res/values-v31/themes.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "250",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "558"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "363"
+                    }
+                },
+                {
+                    "source": "/Volumes/Data2/vira.cz/viracz/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "1,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,370",
+                        "endLines": "6,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "364,744"
+                    },
+                    "to": {
+                        "startLines": "6,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "368,721",
+                        "endLines": "11,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "716,1095"
+                    }
+                }
+            ]
+        }
+    ]
+}

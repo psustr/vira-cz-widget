@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ca.sustr.vira.cz.viracz-mergeDebugResources-7:/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

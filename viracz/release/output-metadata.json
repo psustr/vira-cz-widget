@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "ca.sustr.vira.cz",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 28,
+      "versionName": "2.2",
+      "outputFile": "viracz-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ca.sustr.vira.cz"
+4    android:versionCode="30"
+5    android:versionName="3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" >
+11-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:7:5-9:23
+11-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:8:9-51
+12    </uses-permission>
+13
+14    <!-- Needed for pre-Oreo devices (Android 8.0 Oreo (API 26)) -->
+15    <uses-permission android:name="android.permission.WAKE_LOCK" >
+15-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:12:5-14:23
+15-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:13:9-52
+16    </uses-permission>
+17
+18    <application
+18-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:16:5-52:19
+19        android:allowBackup="true"
+19-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:18:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.0.0] /Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+21        android:debuggable="true"
+22        android:icon="@drawable/ic_launcher"
+22-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:20:9-45
+23        android:installLocation="internalOnly"
+23-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:19:9-47
+24        android:label="@string/app_name"
+24-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:21:9-41
+25        android:testOnly="true"
+26        android:usesCleartextTraffic="true" >
+26-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:17:9-44
+27        <receiver
+27-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:22:9-34:20
+28            android:name="ca.sustr.vira.cz.WidgetService"
+28-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:24:13-42
+29            android:exported="false"
+29-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:23:13-37
+30            android:icon="@drawable/ic_launcher"
+30-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:25:13-49
+31            android:label="@string/app_name" >
+31-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:26:13-45
+32            <intent-filter>
+32-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:27:13-29:29
+33                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+33-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:28:17-84
+33-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:28:25-81
+34            </intent-filter>
+35
+36            <meta-data
+36-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:31:13-33:59
+37                android:name="android.appwidget.provider"
+37-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:32:17-58
+38                android:resource="@xml/widget_provider" />
+38-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:33:17-56
+39        </receiver>
+40
+41        <!-- BIND_JOB_SERVICE needed for Oreo devices (Android 8.0 Oreo (API 26)) -->
+42        <service
+42-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:37:9-41:19
+43            android:name="ca.sustr.vira.cz.WidgetService"
+43-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:39:13-42
+44            android:exported="false"
+44-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:38:13-37
+45            android:permission="android.permission.BIND_JOB_SERVICE" >
+45-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:40:13-69
+46        </service>
+47
+48        <activity
+48-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:43:9-46:20
+49            android:name="ca.sustr.vira.cz.DialogActivity"
+49-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:44:13-43
+50            android:theme="@android:style/Theme.Dialog" >
+50-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:45:13-56
+51        </activity>
+52        <activity android:name="ca.sustr.vira.cz.PrefsActivity" >
+52-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:48:9-50:20
+52-->/Volumes/Data2/vira.cz/viracz/src/main/AndroidManifest.xml:49:13-42
+53        </activity>
+54    </application>
+55
+56</manifest>

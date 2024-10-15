@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "ca.sustr.vira.cz.viracz-mergeDebugResources-7:/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Data2/vira.cz/viracz/src/main/res/values-v14/dimensions.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "45",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

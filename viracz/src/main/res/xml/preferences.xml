@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/prefs_appearance_category"
+        android:key="appearance_category">
+
+        <PreferenceScreen
+			android:key="widget_appearance_screen"
+        	android:title="@string/prefs_widget_title"
+        	android:icon="@drawable/widget"
+        	android:persistent="false">            
+	        <ListPreference 
+	            android:key="widget_font_size"
+	            android:title="@string/prefs_font_size_title"
+	        	android:icon="@drawable/size"
+	            android:summary="@string/prefs_font_size_summary"
+	            android:defaultValue="12"
+	            android:entries="@array/fontSizes"
+	            android:entryValues="@array/fontSizeValues" />    
+	        <yuku.ambilwarna.widget.AmbilWarnaPreference
+	            android:key="widget_font_colour"
+	        	android:icon="@drawable/colour"
+	            android:title="@string/prefs_font_colour_title"
+	            android:summary="@string/prefs_font_colour_summary"
+                android:defaultValue="0xffcccccc"/>
+        </PreferenceScreen>
+        	
+        <PreferenceScreen
+        	android:key="dialog_appearance_category"
+        	android:title="@string/prefs_dialog_title"
+        	android:icon="@drawable/pane2"
+        	android:persistent="false">
+	        <ListPreference 
+	            android:key="dialog_font_size"
+	        	android:icon="@drawable/size"
+	            android:title="@string/prefs_font_size_title"
+	            android:summary="@string/prefs_font_size_summary"
+	            android:defaultValue="14" 
+	            android:entries="@array/fontSizes"
+	            android:entryValues="@array/fontSizeValues" />    
+	        <yuku.ambilwarna.widget.AmbilWarnaPreference
+	            android:key="dialog_font_colour"
+	        	android:icon="@drawable/colour"
+	            android:title="@string/prefs_font_colour_title"
+	            android:summary="@string/prefs_font_colour_summary"
+	            android:defaultValue="0xffcccccc" />
+	        <yuku.ambilwarna.widget.AmbilWarnaPreference
+	            android:key="dialog_background_colour"
+	        	android:icon="@drawable/background"
+	            android:title="@string/prefs_background_colour_title"
+	            android:summary="@string/prefs_background_colour_summary"
+	            android:defaultValue="0xff000000" />
+		</PreferenceScreen>
+
+	</PreferenceCategory>
+        
+    <PreferenceCategory
+        android:title="@string/prefs_upload_category"
+        android:key="upload_category">
+    
+        <CheckBoxPreference
+	        android:key="upload_allowed"
+        	android:icon="@drawable/ftp"
+    	    android:title="@string/prefs_enable_upload_title"
+        	android:summary="@string/prefs_enable_upload_summary"
+        	android:defaultValue="false"/>
+        <EditTextPreference
+            android:key="ftp_server"
+        	android:icon="@drawable/server"
+            android:title="@string/prefs_ftp_server_title" 
+            android:summary="@string/prefs_ftp_server_summary"
+            android:dialogTitle="@string/prefs_ftp_server_title"
+            android:dialogMessage="@string/prefs_ftp_server_summary"
+            android:hint="ftp.mujserver.cz"
+            android:maxLines="1"
+            android:ellipsize="end"
+			android:dependency="upload_allowed"
+            android:defaultValue="" />
+        <EditTextPreference
+            android:key="ftp_directory"
+        	android:icon="@drawable/directory"
+            android:title="@string/prefs_ftp_directory_title" 
+            android:summary="@string/prefs_ftp_directory_summary"
+            android:dialogTitle="@string/prefs_ftp_directory_title"
+            android:dialogMessage="@string/prefs_ftp_directory_summary"
+            android:hint="/home/psustr"
+            android:maxLines="1"
+            android:ellipsize="end"
+			android:dependency="upload_allowed"
+            android:defaultValue="" />
+        <EditTextPreference
+            android:key="ftp_user"
+        	android:icon="@drawable/user"
+            android:title="@string/prefs_ftp_user_title" 
+            android:summary="@string/prefs_ftp_user_summary"
+            android:dialogTitle="@string/prefs_ftp_user_title"
+            android:dialogMessage="@string/prefs_ftp_user_summary"
+            android:hint="psustr"
+            android:maxLines="1"
+            android:ellipsize="end"
+			android:dependency="upload_allowed"
+            android:defaultValue="" />
+        <EditTextPreference
+            android:key="ftp_password"
+        	android:icon="@drawable/password"
+            android:title="@string/prefs_ftp_password_title"
+            android:summary="@string/prefs_ftp_password_summary"
+            android:dialogTitle="@string/prefs_ftp_password_title"
+            android:dialogMessage="@string/prefs_ftp_password_summary"
+            android:password="true"
+            android:maxLines="1"
+            android:ellipsize="end"
+			android:dependency="upload_allowed"
+            android:defaultValue="" />
+        
+	</PreferenceCategory>
+
+</PreferenceScreen>

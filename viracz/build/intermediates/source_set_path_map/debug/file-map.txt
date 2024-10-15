@@ -1,0 +1,12 @@
+ca.sustr.vira.cz.viracz-media-1.0.0-0 /Users/psustr/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res
+ca.sustr.vira.cz.viracz-core-1.0.0-1 /Users/psustr/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res
+ca.sustr.vira.cz.viracz-coordinatorlayout-1.0.0-2 /Users/psustr/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/res
+ca.sustr.vira.cz.viracz-packaged_res-3 /Volumes/Data2/vira.cz/ambilWarna/build/intermediates/packaged_res/debug
+ca.sustr.vira.cz.viracz-pngs-4 /Volumes/Data2/vira.cz/viracz/build/generated/res/pngs/debug
+ca.sustr.vira.cz.viracz-resValues-5 /Volumes/Data2/vira.cz/viracz/build/generated/res/resValues/debug
+ca.sustr.vira.cz.viracz-rs-6 /Volumes/Data2/vira.cz/viracz/build/generated/res/rs/debug
+ca.sustr.vira.cz.viracz-mergeDebugResources-7 /Volumes/Data2/vira.cz/viracz/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ca.sustr.vira.cz.viracz-mergeDebugResources-8 /Volumes/Data2/vira.cz/viracz/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ca.sustr.vira.cz.viracz-merged_res-9 /Volumes/Data2/vira.cz/viracz/build/intermediates/merged_res/debug
+ca.sustr.vira.cz.viracz-debug-10 /Volumes/Data2/vira.cz/viracz/src/debug/res
+ca.sustr.vira.cz.viracz-main-11 /Volumes/Data2/vira.cz/viracz/src/main/res
