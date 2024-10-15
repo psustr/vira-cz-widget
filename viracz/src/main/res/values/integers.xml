@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--An arbitrary job ID to use in JobIntentService; must be the same across the app-->
+    <integer name="jobId">34532198</integer>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="fontSizes">
+        <item name="8">Velmi malé</item>
+        <item name="12">Malé</item>
+        <item name="14">Normální</item>
+        <item name="16">Velké</item>
+        <item name="18">Velmi velké</item>
+    </string-array>
+    
+    <string-array name="fontSizeValues">
+        <item name="8">8</item>
+        <item name="12">12</item>
+        <item name="14">14</item>
+        <item name="16">16</item>
+        <item name="18">18</item>
+    </string-array>
+
+    <string-array name="colours">
+        <item name="black">Černá</item>
+        <item name="blue">Modrá</item>
+        <item name="cyan">Azurová</item>
+        <item name="dkgray">Tmavě šedá</item>
+        <item name="gray">Šedá</item>
+        <item name="green">Zelená</item>
+        <item name="ltgray">Světle šedá</item>
+        <item name="magenta">Fialová</item>
+        <item name="red">Červená</item>
+        <item name="white">Bílá</item>
+        <item name="yellow">Žlutá</item>
+    </string-array>
+
+    <string-array name="colourValues">
+        <item name="black">black</item>
+        <item name="blue">blue</item>
+        <item name="cyan">cyan</item>
+        <item name="dkgray">darkgray</item>
+        <item name="gray">gray</item>
+        <item name="green">green</item>
+        <item name="ltgray">lightgray</item>
+        <item name="magenta">magenta</item>
+        <item name="red">red</item>
+        <item name="white">white</item>
+        <item name="yellow">yellow</item>
+    </string-array>
+    
+</resources>

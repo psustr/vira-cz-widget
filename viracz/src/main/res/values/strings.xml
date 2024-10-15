@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Víra.cz</string>
+    <string name="dummy_activity">Dummy Launcher</string>
+    
+    <string name="quoteHeader">Biblický citát dne:</string>
+    <string name="quoteText">Všechen lid Ježíšovi rád naslouchal. (Lk 19,48)</string>
+    <string name="quoteUrl">https://www.vira.cz/</string>
+    <string name="quoteFileName">biblicky-citat.php</string>
+    <string name="quoteTextElemId">biblicky-citat-text</string>
+    <string name="quoteRefElemId">biblicky-citat-citace</string>
+    
+    <string name="quoteDetailUrl">http://www.biblenet.cz/b/</string>
+    <string name="quoteDetailElemId">main</string>
+    <string name="quoteDetailTitle">Biblický citát dne:</string>
+	<string name="quoteDetailJunk1">.chapterControls</string>
+	<string name="quoteDetailJunk2">.mainForm</string>
+    
+    <string name="topicHeader">Téma týdne:</string>
+    <string name="topicText">Co v lásce dáme, Bůh nám podivuhodně vrátí. Co v lásce dáme, Bůh nám podivuhodně vrátí (25.6.2011, 12)</string>
+    <string name="topicUrl">https://www.vira.cz/</string>
+    <string name="topicFileName">tema-tydne.php</string>
+    <string name="topicTextElemId">tema_tydne_nadpis</string>
+    <string name="topicDateElemId">tema_tydne_datum_autor</string>
+    <string name="topicDetailTitle">Téma týdne</string>
+    
+    <string name="settingsDescription">settings</string>
+
+    <string name="ONCLICK_QUOTE_ACTION">ca.sustr.vira.cz.OnClickQuoteAction</string>
+    <string name="ONCLICK_TOPIC_ACTION">ca.sustr.vira.cz.OnClickTopicAction</string>
+    <string name="ONBACKPRESSED_PREFS_ACTION">ca.sustr.vira.cz.OnBackPressedPrefsAction</string>
+	<string name="ONWIDGET_AUTOUPDATE_ACTION">ca.sustr.vira.cz.OnWidgetAutoUpdateAction</string>
+    <string name="ONWIDGET_MANUALUPDATE_ACTION">ca.sustr.vira.cz.OnWidgetManualUpdateAction</string>
+	<string name="BUNDLE_KEY">ca.sustr.vira.cz.text</string>
+    
+    <string name="quoteDetail">
+1 Ježíš vešel do Jericha a procházel jím.\n
+2 Tam byl muž jménem Zacheus, vrchní celník a veliký boháč;\n
+3 toužil uvidět Ježíše, aby poznal, kdo to je, ale poněvadž byl malé postavy, nemohl ho pro zástup spatřit.\n
+4 Běžel proto napřed a vylezl na moruši, aby ho uviděl, neboť tudy měl jít.\n
+5 Když Ježíš přišel k tomu místu, pohlédl vzhůru a řekl: „Zachee, pojď rychle dolů, neboť dnes musím zůstat v tvém domě.“\n
+6 On rychle slezl a s radostí jej přijal.\n
+7 Všichni, kdo to viděli, reptali: „On je hostem u hříšného člověka!“\n
+8 Zacheus se zastavil a řekl Pánu: „Polovinu svého jmění, Pane, dávám chudým, a jestliže jsem někoho ošidil, nahradím mu to čtyřnásobně.“\n
+9 Ježíš mu řekl: „Dnes přišlo spasení do tohoto domu; vždyť je to také syn Abrahamův.\n
+10 Neboť Syn člověka přišel, aby hledal a spasil, co zahynulo.“\n
+11 Těm, kteří to slyšeli, pověděl ještě podobenství, protože byl blízko Jeruzaléma, a oni se domnívali, že království Boží se má zjevit ihned.\n
+12 Proto řekl: „Jeden muž vznešeného rodu měl odejít do daleké země, aby si odtud přinesl královskou hodnost.\n
+13 Zavolal si deset svých služebníků, dal jim deset hřiven a řekl jim: ‚Hospodařte s nimi, dokud nepřijdu.‘\n
+14 Ale občané ho nenáviděli a poslali vzápětí poselstvo, aby vyřídilo: ‚Nechceme tohoto člověka za krále!‘\n
+15 Když se však jako král vrátil, dal si předvolat služebníky, kterým svěřil peníze, aby se přesvědčil, jak s nimi kdo hospodařil.\n
+16 Přišel první a řekl: ‚Pane, tvoje hřivna vynesla deset hřiven.‘\n
+17 Řekl mu: ‚Správně, služebníku dobrý, poněvadž jsi byl věrný v docela malé věci, budeš vládnout nad deseti městy.‘\n
+18 Přišel druhý a řekl: ‚Pane, tvoje hřivna vynesla pět hřiven.‘\n
+19 Řekl mu: ‚Ty vládni nad pěti městy!‘\n
+20 Přišel další a řekl: ‚Pane, tu je tvoje hřivna; měl jsem ji schovánu v šátku,\n
+21 neboť jsem se tě bál. Jsi přísný člověk: bereš, co jsi nedal, a sklízíš, co jsi nezasel.‘\n
+22 Řekne mu: ‚Jsi špatný služebník. Soudím tě podle tvých vlastních slov: věděl jsi, že jsem člověk přísný a beru, co jsem nedal, a sklízím, co jsem nezasel.\n
+23 Proč jsi aspoň mé peníze neuložil, a já bych si je byl teď vybral i s úrokem.‘\n
+24 Své družině pak řekl: ‚Vezměte mu tu hřivnu a dejte ji tomu, kdo má deset hřiven!‘\n
+25 Řekli mu: ‚Pane, už má deset.‘\n
+26 Pravím vám: ‚Každému, kdo má, bude dáno; kdo nemá, tomu bude odňato i to, co má.\n
+27 Ale mé nepřátele, kteří nechtěli, abych byl jejich králem, přiveďte sem a přede mnou je pobijte.‘“\n
+28 Po těchto slovech pokračoval Ježíš v cestě do Jeruzaléma.\n
+29 Když se přiblížil k Betfage a k Betanii u hory, která se nazývá Olivová, poslal dva ze svých učedníků\n
+30 a řekl jim: „Jděte naproti do vesnice, a jak do ní vejdete, naleznete přivázané oslátko, na němž dosud nikdo z lidí neseděl. Odvažte je a přiveďte!\n
+31 Zeptá-li se vás někdo, proč je odvazujete, odpovězte mu: ‚Pán je potřebuje.‘“\n
+32 Šli, kam je poslal, a nalezli vše, jak jim řekl.\n
+33 Když oslátko odvazovali, řekli jim jeho majitelé: „Proč to oslátko odvazujete?“\n
+34 Oni odpověděli: „Pán je potřebuje.“\n
+35 Přivedli oslátko k Ježíšovi, hodili přes ně své pláště a Ježíše na ně posadili.\n
+36 A jak jel, prostírali mu své pláště na cestu.\n
+37 Když už se blížil ke svahu Olivové hory, počal celý zástup učedníků radostně a hlasitě chválit Boha za všechny mocné činy, které viděli.\n
+38 Volali: „Požehnaný král, který přichází ve jménu Hospodinově. Na nebi pokoj a sláva na výsostech!“\n
+39 Tu mu řekli někteří farizeové ze zástupu: „Mistře, napomeň své učedníky!“\n
+40 O dpověděl: „Pravím vám, budou-li oni mlčet, bude volat kamení.“\n
+41 Když už byl blízko a uzřel město, dal se nad ním do pláče\n
+42 a řekl: „Kdybys poznalo v tento den i ty, co vede k pokoji! Avšak je to skryto tvým očím.\n
+43 Přijdou na tebe dny, kdy tvoji nepřátelé postaví kolem tebe val, obklíčí tě a sevřou ze všech stran.\n
+44 Srovnají tě se zemí a s tebou i tvé děti; nenechají v tobě kámen na kameni, poněvadž jsi nepoznalo čas, kdy se Bůh k tobě sklonil.“\n
+45 Když vešel do chrámu, začal vyhánět ty, kdo tam prodávali,\n
+46 a řekl jim: „Je psáno: ‚Můj dům bude domem modlitby,‘ ale vy jste z něho udělali doupě lupičů.“\n
+47 Každý den učil v chrámě; velekněží však a zákoníci i přední mužové z lidu usilovali o to, aby jej zahubili,\n
+48 ale nevěděli, jak by to měli udělat, poněvadž všechen lid mu visel na rtech.         \n
+	</string>
+	<string name="topicDetail">
+Téma týdne\n
+  Co v lásce dáme, Bůh nám podivuhodně vrátí\n
+  Ježíš řekl:\n
+Kdo ztratí svůj život pro mě,\n 
+nalezne ho. (Mt 10, 37-42)\n 
+  Ztratit život - komu by se chtělo?\n 
+Ale kdo z lidí ho nakonec stejně neztratí,\n 
+když jsme všichni smrtelní?\n
+Ztratit život zbytečně nebo tak,\n 
+že ho dokonale prohrajeme, \n
+to sotva může být pro někoho životním snem.\n
+Ale ztratit život tím způsobem, \n
+že ho opět jednou nalezneme, \n
+to je cesta, která nekončí ve slepé uličce.\n
+Vypadá to jen jako útěcha \n
+kterou si nemůžeme na tomto světě ověřit.\n
+Jenže ztrácet život smysluplně po troškách \n
+pro Ježíše, pro bližní, pro dobro druhých \n
+můžeme už teď a vlastně celý život.\n
+A tak můžeme v každé chvíli života zakoušet,\n 
+že to, co v lásce dáme, \n
+nám Bůh podivuhodně proměněné vrátí.\n
+  Tuto službu poskytuje www.vira.cz.        
+	</string>
+	<string name="prefs_appearance_category">Vzhled</string>
+	<string name="prefs_widget_title">Widget</string>
+	<string name="prefs_dialog_title">Čtecí okno</string>
+	<string name="prefs_font_size_title">Velikost</string>
+	<string name="prefs_font_size_summary">Volba velikosti písma</string>
+	<string name="prefs_font_colour_title">Barva písma</string>
+	<string name="prefs_font_colour_summary">Volba barvy písma</string>
+	<string name="prefs_background_colour_title">Barva pozadí</string>
+	<string name="prefs_background_colour_summary">Volba barvy pozadí</string>
+	<string name="prefs_upload_category">Upload</string>
+	<string name="prefs_enable_upload_title">Povolit upload</string>
+	<string name="prefs_enable_upload_summary">Uložení citátu a tématu na FTP server</string>
+	<string name="prefs_ftp_server_title">FTP server</string>
+	<string name="prefs_ftp_server_summary">Adresa FTP serveru</string>
+	<string name="prefs_ftp_directory_title">Lokální adresář</string>
+	<string name="prefs_ftp_directory_summary">Cesta pro uložení dat</string>
+	<string name="prefs_ftp_user_title">Uživatelské jméno</string>
+	<string name="prefs_ftp_user_summary">Přihlašovací jméno FTP uživatele</string>
+	<string name="prefs_ftp_password_title">Heslo</string>
+	<string name="prefs_ftp_password_summary">Heslo FTP uživatele</string>
+
+	<string name="error_quote_title">Odkaz \'</string>
+	<string name="error_quote_syntax">\': neznámá syntax</string>
+	<string name="error_book_title">Kniha \'</string>
+	<string name="error_book_unknown">\': neznámá kniha</string>
+	<string name="quote_updated">Biblický citát dne aktualizován</string>
+	<string name="quote_empty">Nepodařil se stáhnout biblický citát dne</string>
+	<string name="topic_updated">Téma týdne aktualizováno</string>
+	<string name="topic_empty">Nepodařilo se stáhnout téma týdne</string>
+
+</resources>
